@@ -1,4 +1,4 @@
-# php_interview_questions
+# php_interview_questions(php面试题)
 
     1.什么是restful api?
     
@@ -13,3 +13,19 @@
     6.什么是脏读？
     
     7.tp框架和laravel框架的区别？
+    
+    8.redis为什么快？
+    
+    9.redis的跳表原理？
+    
+    10.常见排序与时间复杂度?
+    
+    11.红黑树应用场景？
+    
+    12.redis 哨兵机制？
+    
+    13.redis 有序集合是如何实现的？
+    
+    14.redis 的事务存在的意义？
+    
+    15.redis 删除策略及原理？
